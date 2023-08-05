@@ -24,8 +24,16 @@ header {
     color: white;
 }
 
-header h1 {
+header h1 , h2 {
     text-align: center;
+}
+
+.subtitulo{
+    color: green;
+}
+
+.subModificado{
+    color: rgb(255, 0, 212);
 }
 
 .tema {
